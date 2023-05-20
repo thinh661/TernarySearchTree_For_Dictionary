@@ -1,0 +1,1 @@
+Vào class Tenary Search Tree tìm đếm  method ReadFile và sửa đường dẫn lại thành nơi lưu file word.txt của mình.
